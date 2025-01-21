@@ -1,2 +1,4 @@
 # python
-this is my first python repo
+this is my first python repo . <br>
+basic code
+
