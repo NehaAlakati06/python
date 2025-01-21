@@ -1,4 +1,4 @@
-# python
+ls# python
 this is my first python repo . <br>
-basic code
+basic code (sample code)
 
